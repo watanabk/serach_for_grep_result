@@ -1,0 +1,11 @@
+C:\work\esys\grep\bin\Debug\netcoreapp2.1\grep.deps.json
+C:\work\esys\grep\bin\Debug\netcoreapp2.1\grep.runtimeconfig.json
+C:\work\esys\grep\bin\Debug\netcoreapp2.1\grep.runtimeconfig.dev.json
+C:\work\esys\grep\bin\Debug\netcoreapp2.1\grep.dll
+C:\work\esys\grep\bin\Debug\netcoreapp2.1\grep.pdb
+C:\work\esys\grep\obj\Debug\netcoreapp2.1\grep.csprojAssemblyReference.cache
+C:\work\esys\grep\obj\Debug\netcoreapp2.1\grep.csproj.CoreCompileInputs.cache
+C:\work\esys\grep\obj\Debug\netcoreapp2.1\grep.AssemblyInfoInputs.cache
+C:\work\esys\grep\obj\Debug\netcoreapp2.1\grep.AssemblyInfo.cs
+C:\work\esys\grep\obj\Debug\netcoreapp2.1\grep.dll
+C:\work\esys\grep\obj\Debug\netcoreapp2.1\grep.pdb
